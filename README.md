@@ -1,3 +1,5 @@
+# Currently Not Working
+
 # The Legend of Zelda: The Wind Waker HD — native port (macOS, Linux, Windows, Android)
 
 A static recompilation of the Wii U version (USA or European) that runs natively on **macOS** (Apple Silicon),
